@@ -1,0 +1,6 @@
+@LionWheelDataTransform_HostAddress = http://localhost:5083
+
+GET {{LionWheelDataTransform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
